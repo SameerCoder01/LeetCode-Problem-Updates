@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0231-power-of-two) |
+| [0461-hamming-distance](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0461-hamming-distance) |
 ## Math
 |  |
 | ------- |
