@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0268-missing-number](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0904-fruit-into-baskets) |
 ## Sliding Window
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0389-find-the-difference](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0424-longest-repeating-character-replacement) |
 ## Binary Search
 |  |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0338-counting-bits) |
+| [0389-find-the-difference](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0461-hamming-distance) |
 ## Math
 |  |
@@ -66,4 +69,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
