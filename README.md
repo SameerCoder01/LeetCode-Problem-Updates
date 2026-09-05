@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0344-reverse-string](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0424-longest-repeating-character-replacement) |
 ## Binary Search
@@ -72,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0389-find-the-difference) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
