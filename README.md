@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0001-two-sum) |
 | [0136-single-number](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0136-single-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0209-minimum-size-subarray-sum) |
+| [0217-contains-duplicate](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0268-missing-number) |
 | [0904-fruit-into-baskets](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0904-fruit-into-baskets) |
 ## Hash Table
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0217-contains-duplicate](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0387-first-unique-character-in-a-string) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0389-find-the-difference) |
