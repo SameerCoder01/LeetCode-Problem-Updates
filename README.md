@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0001-two-sum) |
+| [0053-maximum-subarray](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0136-single-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0209-minimum-size-subarray-sum) |
@@ -73,11 +74,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0338-counting-bits) |
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0053-maximum-subarray) |
 | [0191-number-of-1-bits](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0191-number-of-1-bits) |
 ## Sorting
 |  |
