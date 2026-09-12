@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0268-missing-number) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0169-majority-element](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0268-missing-number) |
@@ -83,10 +85,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0191-number-of-1-bits) |
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0268-missing-number) |
@@ -106,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0451-sort-characters-by-frequency) |
 ## Heap (Priority Queue)
@@ -116,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0451-sort-characters-by-frequency) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
