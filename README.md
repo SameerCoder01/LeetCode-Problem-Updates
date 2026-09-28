@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0287-find-the-duplicate-number) |
 | [0904-fruit-into-baskets](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0904-fruit-into-baskets) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 ## Hash Table
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0287-find-the-duplicate-number) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0461-hamming-distance) |
@@ -114,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0344-reverse-string) |
 ## Queue
 |  |
@@ -145,4 +149,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0075-sort-colors) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
