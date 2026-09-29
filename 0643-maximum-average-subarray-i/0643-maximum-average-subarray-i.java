@@ -8,8 +8,9 @@ class Solution {
             sum += nums[x];
         }
         double avg = (double)sum/k;
-        while(j < nums.length-1){
+        while(j < nums.length){
 
+            if(j == nums.length-1) break;
             int newsum = sum-nums[i] + nums[j+1];
             i++;
             j++;
