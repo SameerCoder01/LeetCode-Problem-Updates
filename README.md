@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0904-fruit-into-baskets) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## String
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0451-sort-characters-by-frequency) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Binary Search
 |  |
 | ------- |
