@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0451-sort-characters-by-frequency) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Binary Search
 |  |
 | ------- |
@@ -186,8 +187,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0020-valid-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0020-valid-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
