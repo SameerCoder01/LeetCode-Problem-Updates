@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3875-construct-uniform-parity-array-i](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0268-missing-number) |
+| [3875-construct-uniform-parity-array-i](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/3875-construct-uniform-parity-array-i) |
 ## Recursion
 |  |
 | ------- |
