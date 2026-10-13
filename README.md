@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0451-sort-characters-by-frequency) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Two Pointers
 |  |
 | ------- |
@@ -220,4 +222,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0069-sqrtx) |
+## Greedy
+|  |
+| ------- |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/3727-maximum-alternating-sum-of-squares) |
 <!---LeetCode Topics End-->
