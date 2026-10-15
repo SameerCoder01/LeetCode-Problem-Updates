@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0268-missing-number) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/3875-construct-uniform-parity-array-i) |
 ## Recursion
 |  |
