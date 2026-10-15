@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2540-minimum-common-value](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/2540-minimum-common-value) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0451-sort-characters-by-frequency) |
 | [0904-fruit-into-baskets](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0904-fruit-into-baskets) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/1636-sort-array-by-increasing-frequency) |
+| [2540-minimum-common-value](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/2540-minimum-common-value) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Sliding Window
 |  |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0704-binary-search) |
+| [2540-minimum-common-value](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/2540-minimum-common-value) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -166,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0344-reverse-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2540-minimum-common-value](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/2540-minimum-common-value) |
 ## Queue
 |  |
 | ------- |
