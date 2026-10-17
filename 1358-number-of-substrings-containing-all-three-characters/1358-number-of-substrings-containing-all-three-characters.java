@@ -13,7 +13,7 @@ class Solution {
             map.put(ch,cc+1);
 
             // map.put(ch, map.getOrDefault(ch, 0) + 1);
-            while(map.size() >= 3){
+            while(map.size() == 3){
                 ans += n-high;
 
                 char c = s.charAt(low);
