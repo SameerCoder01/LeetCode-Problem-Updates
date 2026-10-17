@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-sort-array-by-increasing-frequency](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1817-finding-the-users-active-minutes](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/1817-finding-the-users-active-minutes) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2540-minimum-common-value](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/2540-minimum-common-value) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1817-finding-the-users-active-minutes](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/1817-finding-the-users-active-minutes) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2540-minimum-common-value](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/2540-minimum-common-value) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Sliding Window
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0451-sort-characters-by-frequency) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/1636-sort-array-by-increasing-frequency) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Two Pointers
@@ -202,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0451-sort-characters-by-frequency) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/2225-find-players-with-zero-or-one-losses) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
