@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0451-sort-characters-by-frequency) |
 | [0763-partition-labels](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0763-partition-labels) |
+| [0791-custom-sort-string](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0791-custom-sort-string) |
 | [0904-fruit-into-baskets](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/1248-count-number-of-nice-subarrays) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0451-sort-characters-by-frequency) |
 | [0763-partition-labels](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0763-partition-labels) |
+| [0791-custom-sort-string](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0791-custom-sort-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0451-sort-characters-by-frequency) |
+| [0791-custom-sort-string](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0791-custom-sort-string) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
