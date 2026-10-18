@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0704-binary-search) |
 | [0904-fruit-into-baskets](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0930-binary-subarrays-with-sum) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/1248-count-number-of-nice-subarrays) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0791-custom-sort-string](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0791-custom-sort-string) |
 | [0904-fruit-into-baskets](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0930-binary-subarrays-with-sum) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0209-minimum-size-subarray-sum) |
 | [0930-binary-subarrays-with-sum](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0930-binary-subarrays-with-sum) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
