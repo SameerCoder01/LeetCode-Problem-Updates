@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0992-subarrays-with-k-different-integers](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/1248-count-number-of-nice-subarrays) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0992-subarrays-with-k-different-integers](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/1248-count-number-of-nice-subarrays) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -231,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0451-sort-characters-by-frequency) |
+| [0992-subarrays-with-k-different-integers](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0992-subarrays-with-k-different-integers) |
 | [1657-determine-if-two-strings-are-close](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/1657-determine-if-two-strings-are-close) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/2225-find-players-with-zero-or-one-losses) |
 ## Heap (Priority Queue)
