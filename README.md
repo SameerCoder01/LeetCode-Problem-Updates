@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0125-valid-palindrome) |
+| [0171-excel-sheet-column-number](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0242-valid-anagram) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0069-sqrtx) |
+| [0171-excel-sheet-column-number](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0231-power-of-two) |
