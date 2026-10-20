@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1657-determine-if-two-strings-are-close](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/1657-determine-if-two-strings-are-close) |
+| [3110-score-of-a-string](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/3110-score-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/3498-reverse-degree-of-a-string) |
 ## Binary Search
 |  |
