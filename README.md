@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0088-merge-sorted-array) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0007-reverse-integer) |
+| [0048-rotate-image](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0069-sqrtx) |
 | [0171-excel-sheet-column-number](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0189-rotate-array) |
@@ -333,4 +335,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
