@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0268-missing-number) |
+| [0445-add-two-numbers-ii](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0445-add-two-numbers-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/1248-count-number-of-nice-subarrays) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3280-convert-date-to-binary](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/3280-convert-date-to-binary) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0020-valid-parentheses) |
+| [0445-add-two-numbers-ii](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0445-add-two-numbers-ii) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
@@ -347,4 +349,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0203-remove-linked-list-elements) |
+| [0445-add-two-numbers-ii](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0445-add-two-numbers-ii) |
 <!---LeetCode Topics End-->
