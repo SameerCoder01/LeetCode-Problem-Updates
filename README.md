@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0075-sort-colors) |
+| [0086-partition-list](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0125-valid-palindrome) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0160-intersection-of-two-linked-lists) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0086-partition-list](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0086-partition-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0203-remove-linked-list-elements) |
 | [0445-add-two-numbers-ii](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0445-add-two-numbers-ii) |
