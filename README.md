@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0231-power-of-two) |
 ## Dynamic Programming
 |  |
@@ -339,4 +340,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0048-rotate-image) |
+## Linked List
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
