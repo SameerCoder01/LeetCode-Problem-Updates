@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0025-reverse-nodes-in-k-group) |
 | [0203-remove-linked-list-elements](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0231-power-of-two) |
 ## Dynamic Programming
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0025-reverse-nodes-in-k-group) |
 | [0086-partition-list](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0086-partition-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0203-remove-linked-list-elements) |
