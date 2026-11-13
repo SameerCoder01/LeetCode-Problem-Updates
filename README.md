@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0169-majority-element) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0215-kth-largest-element-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0451-sort-characters-by-frequency) |
 ## Bucket Sort
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0025-reverse-nodes-in-k-group) |
 | [0086-partition-list](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0086-partition-list) |
 | [0148-sort-list](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0148-sort-list) |
@@ -361,5 +364,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0148-sort-list) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
