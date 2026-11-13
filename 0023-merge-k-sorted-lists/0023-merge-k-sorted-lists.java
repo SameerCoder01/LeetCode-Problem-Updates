@@ -8,9 +8,9 @@
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
-class Solution {
+class Solution{
 
-    public ListNode merge(ListNode list1, ListNode list2) {
+    public ListNode merge(ListNode list1, ListNode list2){
     if (list1 == null) return list2;
     if (list2 == null) return list1;
 
@@ -20,28 +20,28 @@ class Solution {
     ListNode temp1 = list1;
     ListNode temp2 = list2;
 
-    while (temp1 != null && temp2 != null) {
+    while(temp1 != null && temp2 != null) {
         int data1 = temp1.val;
         int data2 = temp2.val;
 
-        if (data1 < data2) {
+        if(data1 < data2) {
             ListNode temp = new ListNode(data1);
 
-            if (head == null) {
+            if(head == null) {
                 head = temp;
                 tf = head;
-            } else {
+            } else{
                 tf.next = temp;
                 tf = temp;
             }
             temp1 = temp1.next;
-        } else {
+        } else{
             ListNode temp = new ListNode(data2);
 
-            if (head == null) {
+            if(head == null) {
                 head = temp;
                 tf = head;
-            } else {
+            } else{
                 tf.next = temp;
                 tf = temp;
             }
@@ -49,14 +49,14 @@ class Solution {
         }
     }
 
-    while (temp1 != null) {
+    while(temp1 != null) {
         ListNode temp = new ListNode(temp1.val);
         tf.next = temp;
         tf = temp;
         temp1 = temp1.next;
     }
 
-    while (temp2 != null) {
+    while(temp2 != null) {
         ListNode temp = new ListNode(temp2.val);
         tf.next = temp;
         tf = temp;
