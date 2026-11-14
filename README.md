@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0128-longest-consecutive-sequence) |
+| [0146-lru-cache](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0202-happy-number) |
@@ -357,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0025-reverse-nodes-in-k-group) |
 | [0086-partition-list](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0086-partition-list) |
+| [0146-lru-cache](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0203-remove-linked-list-elements) |
@@ -370,4 +372,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0023-merge-k-sorted-lists) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
