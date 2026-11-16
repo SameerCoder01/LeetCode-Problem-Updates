@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0268-missing-number) |
 | [0445-add-two-numbers-ii](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0445-add-two-numbers-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/1248-count-number-of-nice-subarrays) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0258-add-digits) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/3498-reverse-degree-of-a-string) |
@@ -385,4 +387,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0146-lru-cache) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
