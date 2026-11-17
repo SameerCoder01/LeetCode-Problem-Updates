@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3280-convert-date-to-binary](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/3280-convert-date-to-binary) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/3875-construct-uniform-parity-array-i) |
 ## Recursion
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Interactive
 |  |
 | ------- |
