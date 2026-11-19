@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2540-minimum-common-value](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/2540-minimum-common-value) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Two Pointers
 |  |
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0179-largest-number) |
 | [0763-partition-labels](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0763-partition-labels) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Quickselect
 |  |
