@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1657-determine-if-two-strings-are-close](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/1657-determine-if-two-strings-are-close) |
+| [1927-sum-game](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/1927-sum-game) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3110-score-of-a-string](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/3110-score-of-a-string) |
 | [3146-permutation-difference-between-two-strings](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/3146-permutation-difference-between-two-strings) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0445-add-two-numbers-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/1248-count-number-of-nice-subarrays) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [1927-sum-game](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/1927-sum-game) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3280-convert-date-to-binary](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/3280-convert-date-to-binary) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0179-largest-number](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0179-largest-number) |
 | [0763-partition-labels](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0763-partition-labels) |
+| [1927-sum-game](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/1927-sum-game) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -409,4 +412,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2221-find-triangular-sum-of-an-array](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/2221-find-triangular-sum-of-an-array) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
