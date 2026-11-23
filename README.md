@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1657-determine-if-two-strings-are-close](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/1657-determine-if-two-strings-are-close) |
 | [1927-sum-game](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/1927-sum-game) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3110-score-of-a-string](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/3110-score-of-a-string) |
 | [3146-permutation-difference-between-two-strings](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/3146-permutation-difference-between-two-strings) |
