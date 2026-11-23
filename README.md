@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/1248-count-number-of-nice-subarrays) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1352-product-of-the-last-k-numbers](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/1352-product-of-the-last-k-numbers) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/1248-count-number-of-nice-subarrays) |
+| [1352-product-of-the-last-k-numbers](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/1352-product-of-the-last-k-numbers) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/3364-minimum-positive-sum-subarray) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0268-missing-number) |
 | [0445-add-two-numbers-ii](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0445-add-two-numbers-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/1248-count-number-of-nice-subarrays) |
+| [1352-product-of-the-last-k-numbers](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1927-sum-game](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/1927-sum-game) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/2221-find-triangular-sum-of-an-array) |
@@ -400,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0146-lru-cache) |
+| [1352-product-of-the-last-k-numbers](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/1352-product-of-the-last-k-numbers) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -417,4 +421,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1927-sum-game](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/1927-sum-game) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
