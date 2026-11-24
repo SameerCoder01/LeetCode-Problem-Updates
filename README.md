@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1352-product-of-the-last-k-numbers](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/1352-product-of-the-last-k-numbers) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1441-build-an-array-with-stack-operations](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/1441-build-an-array-with-stack-operations) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1817-finding-the-users-active-minutes](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/1817-finding-the-users-active-minutes) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0258-add-digits) |
+| [1441-build-an-array-with-stack-operations](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/1441-build-an-array-with-stack-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/2243-calculate-digit-sum-of-a-string) |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0020-valid-parentheses) |
 | [0445-add-two-numbers-ii](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0445-add-two-numbers-ii) |
+| [1441-build-an-array-with-stack-operations](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/1441-build-an-array-with-stack-operations) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
