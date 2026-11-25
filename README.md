@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/3875-construct-uniform-parity-array-i) |
+| [3934-smallest-unique-subarray](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/3934-smallest-unique-subarray) |
 ## Hash Table
 |  |
 | ------- |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3146-permutation-difference-between-two-strings](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/3146-permutation-difference-between-two-strings) |
+| [3934-smallest-unique-subarray](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/3934-smallest-unique-subarray) |
 ## Sliding Window
 |  |
 | ------- |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/0704-binary-search) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2540-minimum-common-value](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/2540-minimum-common-value) |
+| [3934-smallest-unique-subarray](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/3934-smallest-unique-subarray) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -435,4 +438,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/1352-product-of-the-last-k-numbers) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/3934-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
