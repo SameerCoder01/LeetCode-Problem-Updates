@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2221-find-triangular-sum-of-an-array](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3280-convert-date-to-binary](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/3280-convert-date-to-binary) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3360-stone-removal-game](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/3875-construct-uniform-parity-array-i) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [3360-stone-removal-game](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/3498-reverse-degree-of-a-string) |
 ## Union-Find
 |  |
