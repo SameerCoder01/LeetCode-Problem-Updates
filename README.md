@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [2966-divide-array-into-arrays-with-max-difference](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/3364-minimum-positive-sum-subarray) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/3411-maximum-subarray-with-equal-products) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2225-find-players-with-zero-or-one-losses](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [2966-divide-array-into-arrays-with-max-difference](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Two Pointers
 |  |
@@ -376,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/1927-sum-game) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [2966-divide-array-into-arrays-with-max-difference](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/SameerCoder01/LeetCode-Problem-Updates/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Quickselect
 |  |
